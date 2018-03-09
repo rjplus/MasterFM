@@ -1,0 +1,15 @@
+﻿Timestamp	Filename	Error	Message
+2018-03-09 16:19:00.257 +0000	MasterFM.fmp12	0	Import operations started
+2018-03-09 16:19:00.261 +0000	MasterFM.fmp12	0	Import of tables from clipboard started
+2018-03-09 16:19:00.266 +0000	MasterFM.fmp12	0	Table “TEMPLATE” imported as “TEMPLATE 2” since a table or table occurrence named “TEMPLATE” already exists.
+2018-03-09 16:19:00.287 +0000	TEMPLATE 2	0	fields imported : 30
+2018-03-09 16:19:00.289 +0000	MasterFM.fmp12	0	tables imported : 1
+2018-03-09 16:19:00.291 +0000	MasterFM.fmp12	0	Import completed
+2018-03-09 16:19:24.122 +0000	MasterFM.fmp12	0	Import operations committed
+2018-03-09 16:19:24.124 +0000	MasterFM.fmp12	0	==================================================================
+2018-03-09 16:20:12.370 +0000	MasterFM.fmp12	0	Import operations started
+2018-03-09 16:20:12.376 +0000	MasterFM.fmp12	0	Import of fields from clipboard started
+2018-03-09 16:20:12.382 +0000	AUDIT	0	fields imported : 7
+2018-03-09 16:20:12.383 +0000	MasterFM.fmp12	0	Import completed
+2018-03-09 16:26:19.131 +0000	MasterFM.fmp12	0	Import operations committed
+2018-03-09 16:26:19.134 +0000	MasterFM.fmp12	0	==================================================================
