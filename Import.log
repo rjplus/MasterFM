@@ -13,3 +13,33 @@
 2018-03-09 16:20:12.383 +0000	MasterFM.fmp12	0	Import completed
 2018-03-09 16:26:19.131 +0000	MasterFM.fmp12	0	Import operations committed
 2018-03-09 16:26:19.134 +0000	MasterFM.fmp12	0	==================================================================
+2018-03-10 05:36:29.054 +0000	MasterFM.fmp12	0	Import of scripts from clipboard started
+2018-03-10 05:36:29.092 +0000	Template	0	script steps imported : 14
+2018-03-10 05:36:29.124 +0000	Template Snippets	0	script steps imported : 69
+2018-03-10 05:36:29.131 +0000	Global Scripts	0	script steps imported : 0
+2018-03-10 05:36:29.136 +0000	Global (0000) Open URL	0	script steps imported : 20
+2018-03-10 05:36:29.143 +0000	Global (0007) refresh portal	0	script steps imported : 17
+2018-03-10 05:36:29.151 +0000	Global (0007) refresh object	0	script steps imported : 17
+2018-03-10 05:36:29.160 +0000	Global (0049) Toggle boolean value	0	script steps imported : 20
+2018-03-10 05:36:29.177 +0000	Global (0050) Refresh list of Object Names	0	script steps imported : 30
+2018-03-10 05:36:29.199 +0000	Global (0051) Webviewer actions	0	script steps imported : 28
+2018-03-10 05:36:29.202 +0000	Global Print Set up	0	script steps imported : 0
+2018-03-10 05:36:29.210 +0000	Global (0055) Print set up A5 Portrait	0	script steps imported : 11
+2018-03-10 05:36:29.221 +0000	Global (0056) Print set up A5 Landscape	0	script steps imported : 11
+2018-03-10 05:36:29.230 +0000	Global (0057) Print set up A4 Portrait	0	script steps imported : 11
+2018-03-10 05:36:29.242 +0000	Global (0058) Print set up A4 Landscape	0	script steps imported : 11
+2018-03-10 05:36:29.248 +0000	Global (0059) Print set up Envelope #10 Landscape	0	script steps imported : 11
+2018-03-10 05:36:29.253 +0000	Global (0060) Print set up Envelope DL Landscape	0	script steps imported : 11
+2018-03-10 05:36:29.255 +0000	--	0	script steps imported : 0
+2018-03-10 05:36:29.256 +0000	--	0	script steps imported : 0
+2018-03-10 05:36:29.258 +0000	Contacts	0	script steps imported : 0
+2018-03-10 05:36:29.260 +0000	Contacts - Buttons	0	script steps imported : 0
+2018-03-10 05:36:29.261 +0000	--	0	script steps imported : 0
+2018-03-10 05:36:29.263 +0000	Contacts - Scripts	0	script steps imported : 0
+2018-03-10 05:36:29.264 +0000	--	0	script steps imported : 0
+2018-03-10 05:36:29.265 +0000	Contacts - Triggers	0	script steps imported : 0
+2018-03-10 05:36:29.266 +0000	--	0	script steps imported : 0
+2018-03-10 05:36:29.267 +0000	--	0	script steps imported : 0
+2018-03-10 05:36:29.269 +0000	Audit record activity	0	script steps imported : 1
+2018-03-10 05:36:29.271 +0000	MasterFM.fmp12	0	scripts imported : 21
+2018-03-10 05:36:29.271 +0000	MasterFM.fmp12	0	Import completed
