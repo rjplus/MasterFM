@@ -91,7 +91,25 @@
 2018-03-13 19:30:06.219 +0000	MasterFM.fmp12	0	Import of script steps from clipboard started
 2018-03-13 19:30:06.222 +0000	Template	0	script steps imported : 2
 2018-03-13 19:30:06.223 +0000	MasterFM.fmp12	0	Import completed
+<<<<<<< HEAD
+2018-03-21 10:50:52.079 +0000	MasterFM.fmp12	0	Import of script steps from clipboard started
+2018-03-21 10:50:52.083 +0000	Contacts insert record	0	script steps imported : 1
+2018-03-21 10:50:52.085 +0000	MasterFM.fmp12	0	Import completed
+2018-03-21 10:51:07.612 +0000	MasterFM.fmp12	0	Import of script steps from clipboard started
+2018-03-21 10:51:07.617 +0000	Contacts insert record	0	script steps imported : 1
+2018-03-21 10:51:07.619 +0000	MasterFM.fmp12	0	Import completed
+2018-03-21 11:10:15.743 +0000	MasterFM.fmp12	0	Import of script steps from clipboard started
+2018-03-21 11:10:15.750 +0000	Contacts insert record	0	script steps imported : 4
+2018-03-21 11:10:15.752 +0000	MasterFM.fmp12	0	Import completed
+2018-03-21 11:10:48.063 +0000	MasterFM.fmp12	0	Import of script steps from clipboard started
+2018-03-21 11:10:48.069 +0000	Contacts insert record	0	script steps imported : 1
+2018-03-21 11:10:48.071 +0000	MasterFM.fmp12	0	Import completed
+2018-03-21 11:11:52.048 +0000	MasterFM.fmp12	0	Import of script steps from clipboard started
+2018-03-21 11:11:52.054 +0000	Contacts insert record	0	script steps imported : 4
+2018-03-21 11:11:52.055 +0000	MasterFM.fmp12	0	Import completed
+=======
 2018-03-23 07:21:27.930 +0000	MasterFM.fmp12	0	Import of scripts from clipboard started
 2018-03-23 07:21:27.937 +0000	Set the Progress Icon to a webviewer	0	script steps imported : 8
 2018-03-23 07:21:27.938 +0000	MasterFM.fmp12	0	scripts imported : 1
 2018-03-23 07:21:27.938 +0000	MasterFM.fmp12	0	Import completed
+>>>>>>> 9a71c996dd101bf570c1520a3dcdfb4229836709
